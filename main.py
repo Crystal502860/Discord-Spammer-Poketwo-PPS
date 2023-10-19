@@ -1,13 +1,13 @@
 from webserver import keep_alive
 import requests
 
-channelID = PUT THE CHANNEL ID
+channelID = 1005686311836995594
 headers = {
-    "authorization":
-    "YOUR TOKEN HERE"
+    "NjA0MzcwOTU4NTE3NjY1ODcz.G7Qms_.H4diW76GwpXYruU3LJj0DVlymeKhGSyyE2GjRI":
+    "NjA0MzcwOTU4NTE3NjY1ODcz.G7Qms_.H4diW76GwpXYruU3LJj0DVlymeKhGSyyE2GjRI"
 }
 keep_alive()
-file = open("text.txt", "r")
+file = open("Kitkat", "Katkit")
 lines = file.readlines()
 
 while True:
