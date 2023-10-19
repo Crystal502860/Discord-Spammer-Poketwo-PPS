@@ -7,7 +7,7 @@ headers = {
     "NjA0MzcwOTU4NTE3NjY1ODcz.G7Qms_.H4diW76GwpXYruU3LJj0DVlymeKhGSyyE2GjRI"
 }
 keep_alive()
-file = open("Kitkat", "Katkit")
+file = open("text.txt", "r")
 lines = file.readlines()
 
 while True:
